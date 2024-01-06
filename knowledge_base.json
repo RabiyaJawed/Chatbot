@@ -1,0 +1,62 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "Hi, How can I assist you?"
+    },
+    {
+      "question": "hello",
+      "answer": "Hello, How can I assist you"
+    },
+    {
+      "question": "Assalam O alikum",
+      "answer": "Walaikum Assalam, How can I assist you?"
+    }
+  ,
+    {
+      "question": "Do I select labs?",
+      "answer": "If you are from the faculty of Pharmacy, Allied health Science and medical then don't forget to select lab courses."
+    },
+    {
+      "question": "Which courses should I select?",
+      "answer": "Select Courses in which you are currently enroll."
+    },
+    {
+      "question": "Which documents are require?",
+      "answer": "Last 2 semester Fee voucher and enrollment card"
+    },
+    {
+      "question": "Which documents should I attach?",
+      "answer": "Last 2 semester Fee voucher and enrollment card"
+    },
+    {
+      "question": "How to fill this form",
+      "answer": "If you received clearance performa then fill the * require fields"
+    },
+    {
+      "question": "Which documents are require for clearance?",
+      "answer": "Last 2 semester Fee voucher and enrollment card"
+    }
+    ,
+    {
+      "question": "Thank you",
+      "answer": "You wellcome"
+    },
+    {
+      "question": "I don't receive clarence performa",
+      "answer": "Wait for 3 days, and if you don't receive them, contact the examination department."
+    },
+    {
+      "question": "What is the last date for submission?",
+      "answer": "5 Dec 2023"
+    }
+    ,
+    {
+      "question": "From where I get the clarence performa",
+      "answer": "Submit the required documents, and you will receive it online."
+    }
+
+
+
+  ]
+}
